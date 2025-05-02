@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @fuadhasanfeam3032  
+- 👀 I’m interested in Competitive Programming  
+- 🌱 I’m currently learning C and C++  
+- 💞️ I’m looking to collaborate on open-source CP and algorithmic projects  
+- 📫 How to reach me: [mdfuadhasanfeam@gmail.com]  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love solving problems late at night when the world is quiet

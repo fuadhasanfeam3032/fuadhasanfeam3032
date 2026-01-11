@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Fuad Hasan Feam   
-- 👀 I’m interested in Competitive Programming  
-- 🌱 I’m currently learning C and C++  
+- 👀 I’m interested in Competitive Programming   
 - 💞️ I’m looking to collaborate on open-source CP and algorithmic projects  
 - 📫 How to reach me: [mdfuadhasanfeam@gmail.com]  
 - 😄 Pronouns: He/Him  
